@@ -1,0 +1,3 @@
+import RaceTrack
+
+CommandLine().startCLI()
